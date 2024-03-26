@@ -15,8 +15,8 @@
 extern const char index_html[];
 extern const char main_js[];
 
-#define WIFI_SSID "ABHIRUP"
-#define WIFI_PASSWORD "rudra_bitan"
+#define WIFI_SSID "YOUR SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
 #define STATIC_IP                       // uncomment for static IP, set IP below
 #ifdef STATIC_IP
